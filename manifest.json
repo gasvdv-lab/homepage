@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Welkom Startpagina",
+  "name": "Concert Slet Startpagina",
   "version": "1.0.0",
-  "description": "Een minimalistische Chrome startpagina met een 'Welkom' begroeting.",
+  "description": "Chrome startpagina met een lichtkrant animatie voor Concert Slet.",
   "chrome_url_overrides": {
     "newtab": "src/index.html"
   }
